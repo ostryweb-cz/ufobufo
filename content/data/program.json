@@ -148,6 +148,18 @@
                             "shortdesc": "",
                             "booking": "Trootootoo",
                             "origin": "ru"
+                        },
+						{
+                            "id": "psygor",
+                            "name": "Psygor, Kapec, Harry",
+                            "time": "05:30",
+                            "duration": 300,
+                            "wwwlink": "http://psyalaskacrew.wix.com/sk",
+                            "icoimage": "content/images/artists/psygor.jpg",
+                            "profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
+                            "shortdesc": "",
+                            "booking": "psyalaska",
+                            "origin": "sk"
                         }
                     ]
                 }
@@ -349,18 +361,6 @@
                     "name": "Chill Out",
                     "artists": [
                         {
-                            "id": "psygor",
-                            "name": "Psygor, Kapec, Harry",
-                            "time": "05:30",
-                            "duration": 300,
-                            "wwwlink": "http://psyalaskacrew.wix.com/sk",
-                            "icoimage": "content/images/artists/psygor.jpg",
-                            "profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
-                            "shortdesc": "",
-                            "booking": "psyalaska",
-                            "origin": "sk"
-                        },
-                        {
                             "id": "glob",
                             "name": "Glob a Globbeq",
                             "time": "10:30",
@@ -443,7 +443,7 @@
                             "shortdesc": "live",
                             "booking": "Chaotic Experience",
                             "origin": "ru"
-                        }
+                        },
                         {
                             "id": "seamoon",
                             "name": "Seamoon",
