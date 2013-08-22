@@ -55,17 +55,18 @@ $(document).on('pagebeforeshow', '#index', function(){
 					if (val2.profiletext!=''){
 						val2.name = '<a href="artistdetail.html?id=' + val2.id + '" data-transition="none">'+val2.name+'</a>';
 					}
-
+/*
 console.log(val2.name);
 console.log(currenttime +' >= ' +datum);
 if (currenttime>=datum){console.log("y");} else {console.log("N");}
 console.log(currenttime +' <= ' +datum2);
 if (currenttime<=datum2){console.log("y");} else {console.log("N");}
+*/
 					if (datum <= currenttime && datum2>=currenttime){
 						items.push('<tr class="'+val1.id+'"><td>'+val2.time+'-'+(pad(datum2.getHours())+':'+pad(datum2.getMinutes()))+'</td><td>'+val1.name+'</td><td>'+val2.name+' '+val2.shortdesc+'</td><td>'+val2.origin+'</td></tr>');
-console.log(' YES ');
-					} else {console.log(' NOPE ');}
-console.log(' ------------------------------------ ');
+//console.log(' YES ');
+					} //else {console.log(' NOPE ');}
+//console.log(' ------------------------------------ ');
 					
 				});
 			});
@@ -171,7 +172,10 @@ $(document).on('pagebeforeshow', '#program', function(){
 		itemslist.push('<thead><tr><th scope="col" class="cas">čas:</th><th scope="col" class="jmeno">jméno:</th><th scope="col" class="popis">původ:</th></tr></thead>');
 		
 		$.each(items, function(key, val) {
-			itemslist.push('<tr class="'+val.stage+'"><td>'+val.time+'-'+val.end+'</td><td><a href="artistdetail.html?id=' + val.id + '" data-transition="none">'+val.name+'</a></td><td>'+ val.origin +'</td></tr>');
+			if (val.shortdesc!=''){
+				val.shortdesc=' ('+ val.shortdesc +')';
+			}
+			itemslist.push('<tr class="'+val.stage+'"><td>'+val.time+'-'+val.end+'</td><td><a href="artistdetail.html?id=' + val.id + '" data-transition="none">'+val.name+'</a>'+val.shortdesc+'</td><td>'+ val.origin +'</td></tr>');
 		});
 		itemslist.push('</tbody></table></div>');
 		items = [];
@@ -203,7 +207,7 @@ $(document).on('pagebeforeshow', '#artists', function(){
 					if (val.icoimage!=''){
 						iconhtml='<img src="'+ val.icoimage +'" width="73" />';
 					}
-					itemslist.push('<li><a href="artistdetail.html?id=' + val.id + '" data-transition="none">'+iconhtml+'<h3>'+ val.name +'</h3><p>'+ val.shortdesc +'</p></a></ul>');
+					itemslist.push('<li><a href="artistdetail.html?id=' + val.id + '" data-transition="none">'+iconhtml+'<h3>'+ val.name +'</h3><p>'+ val.booking +' /'+ val.origin +'</p></a></ul>');
 					lastone = val.name;
 				}
 			});
@@ -241,9 +245,18 @@ $(document).on('pagebeforeshow', '#profile', function(){
 			});
 		});
 		var www = '';
+		var booking = '';
 		if (object.wwwlink!=''){
 			www = ' | <a href="'+object.wwwlink+'">www</a>';
 		}
-		$("#profiledetail").append('<h1>'+object.name+'</h1><p id="shortdesc"><span class="'+object.stageid+'">'+object.day + ' ' +object.time+' @ '+object.stage+' stage</span> | '+object.shortdesc + www + '</p><div class="fleft"><img src="'+object.icoimage+'" width="150" height="150" /></div><p id="profiletext">'+object.profiletext+'</p>');
+		if (object.booking!=''){
+			booking = ' <br>'+object.booking;
+		}
+		if (object.origin!=''){
+			booking += ' /'+object.origin;
+		}
+		
+		
+		$("#profiledetail").append('<h1>'+object.name+'</h1><p id="shortdesc"><span class="'+object.stageid+'">'+object.day + ' ' +object.time+' @ '+object.stage+' stage</span> | '+object.shortdesc + www + booking +'</p><div class="fleft"><img src="'+object.icoimage+'" width="150" height="150" /></div><p id="profiletext">'+object.profiletext+'</p>');
 	});
 });
