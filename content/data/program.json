@@ -75,7 +75,7 @@
 "id": "nulatri",
 "name": "000333",
 "time": "05:00",
-"duration": 90,
+"duration": 60,
 "wwwlink": "http://www.mimo.cz",
 "icoimage": "content/images/artists/000333.jpg",
 "profiletext": "",
@@ -126,7 +126,7 @@
 "origin": "ru"
 },
 {
-							"id": "ogidogi",
+"id": "ogidogi",
 "name": "Ogi dogi",
 "time": "01:30",
 "duration": 120,
@@ -140,7 +140,7 @@
 {
 "id": "gunsiq",
 "name": "Guns IQ",
-"time": "3:30",
+"time": "03:30",
 "duration": 120,
 "wwwlink": "http://www.trootootoo.com/",
 "icoimage": "content/images/artists/gunsiq.jpg",
@@ -149,11 +149,11 @@
 "booking": "Trootootoo",
 "origin": "ru"
 },
-						{
+{
 "id": "psygor",
 "name": "Psygor, Kapec, Harry",
 "time": "05:30",
-"duration": 300,
+"duration": 30,
 "wwwlink": "http://psyalaskacrew.wix.com/sk",
 "icoimage": "content/images/artists/psygor.jpg",
 "profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
@@ -175,6 +175,18 @@
 "name": "Main",
 "artists": [
 {
+"id": "nulatri",
+"name": "000333",
+"time": "06:00",
+"duration": 30,
+"wwwlink": "http://www.mimo.cz",
+"icoimage": "content/images/artists/000333.jpg",
+"profiletext": "",
+"shortdesc": "",
+"booking": "Mimo TV",
+"origin": "cz"
+},
+{
 "id": "manga",
 "name": "Manga",
 "time": "06:30",
@@ -189,7 +201,7 @@
 {
 "id": "keeray",
 "name": "Keeray",
-"time": "8:00",
+"time": "08:00",
 "duration": 120,
 "wwwlink": "http://www.kerray.cz/",
 "icoimage": "content/images/artists/keeray.jpg",
@@ -342,11 +354,11 @@
 "booking": "Nedonix",
 "origin": "cz"
 },
-						{
+{
 "id": "petrix",
 "name": "Petrix",
 "time": "05:30",
-"duration": 120,
+"duration": 30,
 "wwwlink": "https://soundcloud.com/petrixx",
 "icoimage": "content/images/artists/petrix.jpg",
 "profiletext": "",
@@ -360,6 +372,18 @@
 "id": "chill",
 "name": "Chill Out",
 "artists": [
+{
+"id": "psygor",
+"name": "Psygor, Kapec, Harry",
+"time": "06:00",
+"duration": 230,
+"wwwlink": "http://psyalaskacrew.wix.com/sk",
+"icoimage": "content/images/artists/psygor.jpg",
+"profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
+"shortdesc": "",
+"booking": "psyalaska",
+"origin": "sk"
+},
 {
 "id": "glob",
 "name": "Glob a Globbeq",
@@ -517,6 +541,18 @@
 "id": "main",
 "name": "Main",
 "artists": [
+{
+"id": "petrix",
+"name": "Petrix",
+"time": "06:00",
+"duration": 90,
+"wwwlink": "https://soundcloud.com/petrixx",
+"icoimage": "content/images/artists/petrix.jpg",
+"profiletext": "",
+"shortdesc": "",
+"booking": "Trancecarpathiarts",
+"origin": "ua"
+},
 {
 "id": "wirrareka",
 "name": "Wirrareka & Galactic Sun",
