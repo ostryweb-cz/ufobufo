@@ -15,97 +15,97 @@
 "id": "petrix",
 "name": "Petrix",
 "time": "18:00",
-"duration": 120,
+"duration": 60,
 "wwwlink": "https://soundcloud.com/petrixx",
 "icoimage": "content/images/artists/petrix.jpg",
-"profiletext": "",
+"profiletext": "Peter Veresh aka Petrix was born in a small beautiful town by the Carpathian Mountains in Ukraine in 1986. His interest in art, music and nature was awakened in his early years. At the age of 14 Peter became deeply influenced by the energy of electronic sounds. It was revealed in a collection of contemporary music and the study of new rhythms. Peter’s first psy-trance experience was in Carpathian Mountains in 2001. Being inspired by new feelings, magic energy and great psy-trance experience. He started Djing psychedelic music, organizing parties and art projects together with Ukrainian promo group TranceCarpathiArts. His Dj career started in 2003 in Ukraine and has grown into constant bookings in other countries. It has broadened his vision of psy-culture existence and inspired Peter for self-development and perfection. Petrix’s passion was revealed through experiments with different psychedelic styles and he has always kept a unique sound and energy for his dj sets, which are deep hallucinogenic stories filled with tribal sounds over a powerful rhythmic base - in the night time light and peaceful, leaving the funkiest tales for the morning.",
 "shortdesc": "",
 "booking": "Trancecarpathiarts",
 "origin": "ua"
 },
 {
-"id": "bowlba",
-"name": "Bowlba",
-"time": "20:00",
-"duration": 60,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/bowlba.jpg",
-"profiletext": "",
+"id": "genaro",
+"name": "Genaro",
+"time": "19:00",
+"duration": 120,
+"wwwlink": "https://soundcloud.com/djgenaro",
+"icoimage": "content/images/artists/genaro.jpg",
+"profiletext": "Became a dj since 2002 when start playing on undeground parties around the Ostrava city.",
 "shortdesc": "",
-"booking": "",
-"origin": ""
-},
-{
-"id": "starf",
-"name": "Starf",
-"time": "21:00",
-"duration": 90,
-"wwwlink": "http://www.idj.cz/starf/",
-"icoimage": "content/images/artists/starf.jpg",
-"profiletext": "Narozen 1988 v Praze, o hudbu jsem se zacal zajimat jiz v utlem mladi, nicmene k EDM jsem se dostal az ve svych 17 letech pres prog trance.<br>V zacatcich (r. 2007) jsem cca pul roku experimentoval s ruznymi styly az jsem nakonec zakotvil u melodictejsiho minimalu a pribuzne muziky, kteremu jsem zustal verny cca 2 roky. Posledni 4 roky se drzim psychedelicke hudby - psytrance, goa, ambient, chillout, acid techno.<br>Fascinuje me take analogova synteza, kterou rad objevuji doma po vecerech.",
-"shortdesc": "",
-"booking": "Otrozona",
+"booking": "Protoss",
 "origin": "cz"
 },
 {
 "id": "tigerpunch",
 "name": "Tiger Punch",
-"time": "22:30",
+"time": "21:00",
 "duration": 60,
-"wwwlink": "http://",
+"wwwlink": "https://soundcloud.com/tiger-punch-aka-kalumet",
 "icoimage": "content/images/artists/tigerpunch.jpg",
-"profiletext": "",
+"profiletext": "Tiger Punch is the newest project of Zoltan Vajda (Kalumet, Ork Monk, Trevor McGregor), which manifests a slower kind of psychedelic dance music from dark through twilight to funky moods in a progressive manner.<br><br>With his nearly 20 years experience he safely handles chaos in his music factory, creating a special fusion of styles as always.<br><br>From simple hypnotic basses to crazy twisted ones, from spacey noises to fucked up melodies, you can find everything in this music, just like in all his colorful side-projects.",
 "shortdesc": "live",
 "booking": "",
-"origin": "cz"
+"origin": "hu"
 },
 {
-"id": "dacube",
-"name": "Dacube",
-"time": "19:00",
+"id": "dwaid",
+"name": "Dwaid",
+"time": "22:00",
 "duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/blank.jpg",
+"wwwlink": "https://soundcloud.com/dwaid-mystical-waves",
+"icoimage": "content/images/artists/dwaid.jpg",
 "profiletext": "",
 "shortdesc": "",
-"booking": "Cosmic Frog",
-"origin": "cz"
+"booking": "",
+"origin": "sk"
 },
 {
 "id": "kalumet",
 "name": "Kalumet",
-"time": "01:00",
+"time": "23:30",
 "duration": 120,
-"wwwlink": "http://",
+"wwwlink": "http://www.kalumet.hu",
 "icoimage": "content/images/artists/kalumet.jpg",
-"profiletext": "",
+"profiletext": "Kalumet (Zoltan Vajda, Hungary) started his musical career in 1993 as a bass player in a school band. One year later he attended his first electronic dance party and his interests turned toward contemporary electronic music.<br><br>When his band splitted up, he got a computer and started to create his own sounds with acoustic and electronic instruments such as guitars, percussions, synths, and of course the computer. His first tracks were trance, dub, breakbeat and jazzy jungle tunes.<br><br>In the same time he and his friends founded a party promoter and dj collective project called Alapzaj (Basic Noise). The group was a significant point in the underground techno scene of Budapest.<br><br>The firstly released track (a remix of the famous Hungarian band, Korai Öröm, 1998) was soon followed by others on several compilations.<br><br>By this time he had deepened in psychedelic trance and concentrated on producing quality psychedelic music.<br><br>In 2000 he gave his first live act in an open air party in Hungary, in the same year he released a dub track on the first professional label, Chi Recordings. In the next year he went to Austria to play his first performance abroad. His unique style was highly appreciated so he become a well-known artist in Hungary. More and more realeses and gigs came, and that time he realised that making musical fusions are the most important things in creating new sounds so he started to mix genres in a tasty manner.<br><br>His first international big success was his live act on legendary Boom Festival in 2004 in Portugal, where 20 000 people gathered to see the best trance artists of the world.",
 "shortdesc": "live",
 "booking": "",
-"origin": ""
+"origin": "hu"
 },
+{
+"id": "turo",
+"name": "Turo",
+"time": "01:30",
+"duration": 90,
+"wwwlink": "http://",
+"icoimage": "content/images/artists/turo.jpg",
+"profiletext": "",
+"shortdesc": "",
+"booking": "",
+"origin": "sk"
+}
 {
 "id": "trimurthi",
 "name": "Trimurthi",
 "time": "03:00",
-"duration": 120,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/kalumet.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "",
-"origin": ""
-},
-{
-"id": "aodioiboa",
-"name": "Aodioiboa",
-"time": "05:00",
 "duration": 90,
 "wwwlink": "http://",
-"icoimage": "content/images/artists/aodioiboa.jpg",
-"profiletext": "",
+"icoimage": "content/images/artists/kalumet.jpg",
+"profiletext": "TRIMURTHI means three forms concept of supreme consciousness of cosmos which represent basic sacred forces - creation, maintenance and transformation. This concept of solo project was based on spiritual overtones by artist from Slovakia.<br><br>Trimurthi has performed on gatherings with projects like Parasense, Acid Goblin, Megalopsy, Distorted Goblin, Yudhisthira, Gappeq, Blisargon Demogorgon, Electrypnose, DoHm, Kalumet...<br><br>He prefers more kinds of trance music, mostly juicy deep psytrance and labels like Avatar, Parvati, Omveda, Yggdrasil, Dragonfly, Zaikadelic, Freaks and many more.<br><br>In trance dance culture prefer spirituality, depth, higher cosmic vibrations, inner space, higher levels of consciousness and connecting with Cosmic Spirit.",
 "shortdesc": "live",
 "booking": "",
-"origin": ""
+"origin": "sk"
+},
+{
+"id": "nulatri",
+"name": "000333",
+"time": "04:30",
+"duration": 90,
+"wwwlink": "http://www.mimo.cz",
+"icoimage": "content/images/artists/000333.jpg",
+"profiletext": "",
+"shortdesc": "",
+"booking": "Mimo TV",
+"origin": "cz"
 }
 ]
 },
@@ -692,6 +692,20 @@
 
 
 /*
+
+,
+{
+"id": "aodioiboa",
+"name": "Aodioiboa",
+"time": "05:00",
+"duration": 90,
+"wwwlink": "http://",
+"icoimage": "content/images/artists/aodioiboa.jpg",
+"profiletext": "",
+"shortdesc": "live",
+"booking": "",
+"origin": ""
+}
 
 {
 "id": "spatial",
