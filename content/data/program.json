@@ -1,735 +1,723 @@
 {
-"name": "UFO BUFO",
-"updated": "9.8.2014 23:23",
-"days": [
-{
-"id": "patek",
-"name": "PÁTEK",
-"date": "22.8.2014",
-"stages": [
-{
-"id": "main",
-"name": "Main",
-"artists": [
-{
-"id": "petrix",
-"name": "Petrix",
-"time": "18:00",
-"duration": 60,
-"wwwlink": "https://soundcloud.com/petrixx",
-"icoimage": "content/images/artists/petrix.jpg",
-"profiletext": "Peter Veresh aka Petrix was born in a small beautiful town by the Carpathian Mountains in Ukraine in 1986. His interest in art, music and nature was awakened in his early years. At the age of 14 Peter became deeply influenced by the energy of electronic sounds. It was revealed in a collection of contemporary music and the study of new rhythms. Peter’s first psy-trance experience was in Carpathian Mountains in 2001. Being inspired by new feelings, magic energy and great psy-trance experience. He started Djing psychedelic music, organizing parties and art projects together with Ukrainian promo group TranceCarpathiArts. His Dj career started in 2003 in Ukraine and has grown into constant bookings in other countries. It has broadened his vision of psy-culture existence and inspired Peter for self-development and perfection. Petrix’s passion was revealed through experiments with different psychedelic styles and he has always kept a unique sound and energy for his dj sets, which are deep hallucinogenic stories filled with tribal sounds over a powerful rhythmic base - in the night time light and peaceful, leaving the funkiest tales for the morning.",
-"shortdesc": "",
-"booking": "Trancecarpathiarts",
-"origin": "ua"
-},
-{
-"id": "genaro",
-"name": "Genaro",
-"time": "19:00",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/djgenaro",
-"icoimage": "content/images/artists/genaro.jpg",
-"profiletext": "Became a dj since 2002 when start playing on undeground parties around the Ostrava city.",
-"shortdesc": "",
-"booking": "Protoss",
-"origin": "cz"
-},
-{
-"id": "tigerpunch",
-"name": "Tiger Punch",
-"time": "21:00",
-"duration": 60,
-"wwwlink": "https://soundcloud.com/tiger-punch-aka-kalumet",
-"icoimage": "content/images/artists/tigerpunch.jpg",
-"profiletext": "Tiger Punch is the newest project of Zoltan Vajda (Kalumet, Ork Monk, Trevor McGregor), which manifests a slower kind of psychedelic dance music from dark through twilight to funky moods in a progressive manner.<br><br>With his nearly 20 years experience he safely handles chaos in his music factory, creating a special fusion of styles as always.<br><br>From simple hypnotic basses to crazy twisted ones, from spacey noises to fucked up melodies, you can find everything in this music, just like in all his colorful side-projects.",
-"shortdesc": "live",
-"booking": "",
-"origin": "hu"
-},
-{
-"id": "dwaid",
-"name": "Dwaid",
-"time": "22:00",
-"duration": 90,
-"wwwlink": "https://soundcloud.com/dwaid-mystical-waves",
-"icoimage": "content/images/artists/dwaid.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": "sk"
-},
-{
-"id": "kalumet",
-"name": "Kalumet",
-"time": "23:30",
-"duration": 120,
-"wwwlink": "http://www.kalumet.hu",
-"icoimage": "content/images/artists/kalumet.jpg",
-"profiletext": "Kalumet (Zoltan Vajda, Hungary) started his musical career in 1993 as a bass player in a school band. One year later he attended his first electronic dance party and his interests turned toward contemporary electronic music.<br><br>When his band splitted up, he got a computer and started to create his own sounds with acoustic and electronic instruments such as guitars, percussions, synths, and of course the computer. His first tracks were trance, dub, breakbeat and jazzy jungle tunes.<br><br>In the same time he and his friends founded a party promoter and dj collective project called Alapzaj (Basic Noise). The group was a significant point in the underground techno scene of Budapest.<br><br>The firstly released track (a remix of the famous Hungarian band, Korai Öröm, 1998) was soon followed by others on several compilations.<br><br>By this time he had deepened in psychedelic trance and concentrated on producing quality psychedelic music.<br><br>In 2000 he gave his first live act in an open air party in Hungary, in the same year he released a dub track on the first professional label, Chi Recordings. In the next year he went to Austria to play his first performance abroad. His unique style was highly appreciated so he become a well-known artist in Hungary. More and more realeses and gigs came, and that time he realised that making musical fusions are the most important things in creating new sounds so he started to mix genres in a tasty manner.<br><br>His first international big success was his live act on legendary Boom Festival in 2004 in Portugal, where 20 000 people gathered to see the best trance artists of the world.",
-"shortdesc": "live",
-"booking": "",
-"origin": "hu"
-},
-{
-"id": "turo",
-"name": "Turo",
-"time": "01:30",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/turo.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": "sk"
+    "name": "UFO BUFO",
+    "updated": "9.8.2014 23:23",
+    "days": [
+        {
+            "id": "patek",
+            "name": "PÁTEK",
+            "date": "22.8.2014",
+            "stages": [
+                {
+                    "id": "main",
+                    "name": "Main",
+                    "artists": [
+                        {
+                            "id": "petrix",
+                            "name": "Petrix",
+                            "time": "18:00",
+                            "duration": 60,
+                            "wwwlink": "https://soundcloud.com/petrixx",
+                            "icoimage": "content/images/artists/petrix.jpg",
+                            "profiletext": "Peter Veresh aka Petrix was born in a small beautiful town by the Carpathian Mountains in Ukraine in 1986. His interest in art, music and nature was awakened in his early years. At the age of 14 Peter became deeply influenced by the energy of electronic sounds. It was revealed in a collection of contemporary music and the study of new rhythms. Peter’s first psy-trance experience was in Carpathian Mountains in 2001. Being inspired by new feelings, magic energy and great psy-trance experience. He started Djing psychedelic music, organizing parties and art projects together with Ukrainian promo group TranceCarpathiArts. His Dj career started in 2003 in Ukraine and has grown into constant bookings in other countries. It has broadened his vision of psy-culture existence and inspired Peter for self-development and perfection. Petrix’s passion was revealed through experiments with different psychedelic styles and he has always kept a unique sound and energy for his dj sets, which are deep hallucinogenic stories filled with tribal sounds over a powerful rhythmic base - in the night time light and peaceful, leaving the funkiest tales for the morning.",
+                            "shortdesc": "",
+                            "booking": "Trancecarpathiarts",
+                            "origin": "ua"
+                        },
+                        {
+                            "id": "genaro",
+                            "name": "Genaro",
+                            "time": "19:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/djgenaro",
+                            "icoimage": "content/images/artists/genaro.jpg",
+                            "profiletext": "Became a dj since 2002 when start playing on undeground parties around the Ostrava city.",
+                            "shortdesc": "",
+                            "booking": "Protoss",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "tigerpunch",
+                            "name": "Tiger Punch",
+                            "time": "21:00",
+                            "duration": 60,
+                            "wwwlink": "https://soundcloud.com/tiger-punch-aka-kalumet",
+                            "icoimage": "content/images/artists/tigerpunch.jpg",
+                            "profiletext": "Tiger Punch is the newest project of Zoltan Vajda (Kalumet, Ork Monk, Trevor McGregor), which manifests a slower kind of psychedelic dance music from dark through twilight to funky moods in a progressive manner.<br><br>With his nearly 20 years experience he safely handles chaos in his music factory, creating a special fusion of styles as always.<br><br>From simple hypnotic basses to crazy twisted ones, from spacey noises to fucked up melodies, you can find everything in this music, just like in all his colorful side-projects.",
+                            "shortdesc": "live",
+                            "booking": "Arcona Creation",
+                            "origin": "hu"
+                        },
+                        {
+                            "id": "dwaid",
+                            "name": "Dwaid",
+                            "time": "22:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/dwaid-mystical-waves",
+                            "icoimage": "content/images/artists/dwaid.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Mystical Waves",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "kalumet",
+                            "name": "Kalumet",
+                            "time": "23:30",
+                            "duration": 120,
+                            "wwwlink": "http://www.kalumet.hu",
+                            "icoimage": "content/images/artists/kalumet.jpg",
+                            "profiletext": "Kalumet (Zoltan Vajda, Hungary) started his musical career in 1993 as a bass player in a school band. One year later he attended his first electronic dance party and his interests turned toward contemporary electronic music.<br><br>When his band splitted up, he got a computer and started to create his own sounds with acoustic and electronic instruments such as guitars, percussions, synths, and of course the computer. His first tracks were trance, dub, breakbeat and jazzy jungle tunes.<br><br>In the same time he and his friends founded a party promoter and dj collective project called Alapzaj (Basic Noise). The group was a significant point in the underground techno scene of Budapest.<br><br>The firstly released track (a remix of the famous Hungarian band, Korai Öröm, 1998) was soon followed by others on several compilations.<br><br>By this time he had deepened in psychedelic trance and concentrated on producing quality psychedelic music.<br><br>In 2000 he gave his first live act in an open air party in Hungary, in the same year he released a dub track on the first professional label, Chi Recordings. In the next year he went to Austria to play his first performance abroad. His unique style was highly appreciated so he become a well-known artist in Hungary. More and more realeses and gigs came, and that time he realised that making musical fusions are the most important things in creating new sounds so he started to mix genres in a tasty manner.<br><br>His first international big success was his live act on legendary Boom Festival in 2004 in Portugal, where 20 000 people gathered to see the best trance artists of the world.",
+                            "shortdesc": "live",
+                            "booking": "Sangoma",
+                            "origin": "hu"
+                        },
+                        {
+                            "id": "turo",
+                            "name": "Turo",
+                            "time": "01:30",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/matej-turo-tur-an",
+                            "icoimage": "content/images/artists/turo.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Psyalaska",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "trimurthi",
+                            "name": "Trimurthi",
+                            "time": "03:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/tri-mur-thi",
+                            "icoimage": "content/images/artists/trimurthi.jpg",
+                            "profiletext": "TRIMURTHI means three forms concept of supreme consciousness of cosmos which represent basic sacred forces - creation, maintenance and transformation. This concept of solo project was based on spiritual overtones by artist from Slovakia.<br><br>Trimurthi has performed on gatherings with projects like Parasense, Acid Goblin, Megalopsy, Distorted Goblin, Yudhisthira, Gappeq, Blisargon Demogorgon, Electrypnose, DoHm, Kalumet...<br><br>He prefers more kinds of trance music, mostly juicy deep psytrance and labels like Avatar, Parvati, Omveda, Yggdrasil, Dragonfly, Zaikadelic, Freaks and many more.<br><br>In trance dance culture prefer spirituality, depth, higher cosmic vibrations, inner space, higher levels of consciousness and connecting with Cosmic Spirit.",
+                            "shortdesc": "live",
+                            "booking": "Visionary Shamanics",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "nulatri",
+                            "name": "000333",
+                            "time": "04:30",
+                            "duration": 90,
+                            "wwwlink": "http://www.mimo.cz",
+                            "icoimage": "content/images/artists/000333.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Mimo TV",
+                            "origin": "cz"
+                        }
+                    ]
+                },
+                {
+                    "id": "chill",
+                    "name": "Chill Out",
+                    "artists": [
+                        {
+                            "id": "kubis",
+                            "name": "Kubis",
+                            "time": "20:00",
+                            "duration": 120,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Indian Express",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "styropian",
+                            "name": "Styropian",
+                            "time": "22:00",
+                            "duration": 120,
+                            "wwwlink": "https://www.mixcloud.com/Stryopian",
+                            "icoimage": "content/images/artists/styropian.jpg",
+                            "profiletext": "Was born in 1982, lives in Katowice. In his youth he was a fan of such bands as Queen and Def Leppard. First time he had contact with psytrance about 1997, when he heard the recordings of Juno Reactor. At the beginning of his adventure with electronic music, he derived recordings and knowledge from the already non-existent broadcasting station Evosonic and broadcast \"Technikum Mechanizacji Muzyki\" on the radio RMF. With the growing number of events were widening his connections. At DJ Dudi's instigation Styropian bought his first vinyls and on 12 October 2002 made his debut at the event \"Psychedelic Experience\" in a small club \"Tarantula\" in Bytom. Less than a year later joined to the team Psytrance.pl. At the turn of 2004/2005 set up collective - Psylesia Crew, which every two months organize the event in a series \"..... Tales \" in the INQbator Club in Katowice. Since 2005 is a frequent guest at events in different cities in Poland, Czech Republic and Slovakia.",
+                            "shortdesc": "",
+                            "booking": "Psylesia",
+                            "origin": "pl"
+                        },
+                        {
+                            "id": "nulatri",
+                            "name": "000333",
+                            "time": "00:00",
+                            "duration": 120,
+                            "wwwlink": "http://www.mixcloud.com/000333/",
+                            "icoimage": "content/images/artists/000333.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Mimo TV",
+                            "origin": "cz"
+                        },
+                       {
+                            "id": "muabi",
+                            "name": "Muabi",
+                            "time": "02:00",
+                            "duration": 60,
+                            "wwwlink": "http://www.mixcloud.com/Muab1/",
+                            "icoimage": "content/images/artists/muabi.jpg",
+                            "profiletext": "1997 - prvni setkani s tracker programem Octamed na pocitaci Amiga Commodore<br><br>1998 - sblizeni s programem Symphonie, Digibooster a Soundprobe (ranne pronikani do stylů  jako trance,house,techno,ambient,ebm,experimental atpod.) zalozeni projektu Thrush<br><br>1999 - zaliba ve sledovani grafickych-hudebnich dem a prvni pokusy o samplovani pres sampler (prvni nastevy klubovych techno-house parties)<br><br>2000 - prohloubení zajmu o historii elektronicke hudby a spiritualitu, prvni nastevy open air parties-predevsim tekno, jungle, drumnbass.<br><br>2001 - zajem o studii psychoakustiky, hudebni techniky - zalozeni projektu Kosmo<br><br>2002/03 - presedlani z platformy Amiga na PC k programu Fruityloop  a poznavani internetoveho cyberprostoru.<br><br>2004 - první náštěvy  psychedelic goa trance parties<br><br>2005/06 - poznavani žánrů  jako chillout, ambient,  první dj.sety zaměřené na (psy)chillout, (psy)ambient, (psy)downtempo.<br><br>2007 - zalozeni projektu Muabi, pořízení tech.vybavení studiovych monitorů a midi kontroleru<br><br>2008 - organizovani komornich parties s nazvem Psychedelic Swamp<br><br>2009/10 -  první zkušenosti se syntezatorem (Novation Xio25)<br><br>2011/12 - oficialni deejaysky vystup na party<br><br>2013 - vydani tracku na ceskou kompilaci Crystal and Pearls pod labelem  ForSageOne",
+                            "shortdesc": "",
+                            "booking": "ForSageOne",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "cummis",
+                            "name": "Cummis",
+                            "time": "03:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/djcummis",
+                            "icoimage": "content/images/artists/cummis.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Zahadum Sphere",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "trimurthi",
+                            "name": "Trimurthi",
+                            "time": "05:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/tri-mur-thi",
+                            "icoimage": "content/images/artists/trimurthi.jpg",
+                            "profiletext": "TRIMURTHI means three forms concept of supreme consciousness of cosmos which represent basic sacred forces - creation, maintenance and transformation. This concept of solo project was based on spiritual overtones by artist from Slovakia.<br><br>Trimurthi has performed on gatherings with projects like Parasense, Acid Goblin, Megalopsy, Distorted Goblin, Yudhisthira, Gappeq, Blisargon Demogorgon, Electrypnose, DoHm, Kalumet...<br><br>He prefers more kinds of trance music, mostly juicy deep psytrance and labels like Avatar, Parvati, Omveda, Yggdrasil, Dragonfly, Zaikadelic, Freaks and many more.<br><br>In trance dance culture prefer spirituality, depth, higher cosmic vibrations, inner space, higher levels of consciousness and connecting with Cosmic Spirit.",
+                            "shortdesc": "",
+                            "booking": "Visionary Shamanics",
+                            "origin": "sk"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "sobota",
+            "name": "SOBOTA",
+            "date": "23.8.2014",
+            "stages": [
+                {
+                    "id": "main",
+                    "name": "Main",
+                    "artists": [
+                        {
+                            "id": "ejczka",
+                            "name": "Ejczka",
+                            "time": "06:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/ejczka",
+                            "icoimage": "content/images/artists/ejczka.jpg",
+                            "profiletext": "Jan Horyna aka dj Ejczka has been DJing and organizing gigs since 2009 and in a short time established at Czech psytrance scene. Together with DJ Plech is a member of Polyhedra crew which organizes not only at psy scene well respected multigenre audiovisual parties Der Klang at famous Cross club in Prague. His sets range from hypnotic dark psychedelic around 152 bpm thru pure psytrance around 146 bpm to down trance line morning psytrance 143 bpm. Always depends on concept of party, but always keep his sets psychedelic. During his appearances you can hear tracks by Silent Horror, Parus, Orestis, Kryptum, LAB, Olien, Psykovsky, Sartor Arepo, Chromatec, RawaR, GappeQ, Xenomorph, Atriohm, Encephalopaticys, Jahbo, Derango, Farebi Jalebi, Ajja, RED, Parasense, Electrypnose, Scatterbrain or some melodic stuff by Mr. Peculiar, Sonic Species, Logic Bomb, S-Range, Hujaboy, Psypilot, Ovnimoon, Gyrro, Cosma and many more. Sometimes he plays b2b sets with DJ Plech (dark psychedelic) or with DJ Ondrej Psyla (Mystical Waves Records) in morning time.<br><br>Besides psychedelic trance he has been playing deep d`n`b and autonomic sound to perform actual progressive broken beatz sound which is his old love for many years.",
+                            "shortdesc": "",
+                            "booking": "Polyhedra",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "styropian",
+                            "name": "Styropian",
+                            "time": "08:00",
+                            "duration": 120,
+                            "wwwlink": "https://www.mixcloud.com/Stryopian",
+                            "icoimage": "content/images/artists/styropian.jpg",
+                            "profiletext": "Was born in 1982, lives in Katowice. In his youth he was a fan of such bands as Queen and Def Leppard. First time he had contact with psytrance about 1997, when he heard the recordings of Juno Reactor. At the beginning of his adventure with electronic music, he derived recordings and knowledge from the already non-existent broadcasting station Evosonic and broadcast \"Technikum Mechanizacji Muzyki\" on the radio RMF. With the growing number of events were widening his connections. At DJ Dudi's instigation Styropian bought his first vinyls and on 12 October 2002 made his debut at the event \"Psychedelic Experience\" in a small club \"Tarantula\" in Bytom. Less than a year later joined to the team Psytrance.pl. At the turn of 2004/2005 set up collective - Psylesia Crew, which every two months organize the event in a series \"..... Tales \" in the INQbator Club in Katowice. Since 2005 is a frequent guest at events in different cities in Poland, Czech Republic and Slovakia.",
+                            "shortdesc": "",
+                            "booking": "Psylesia",
+                            "origin": "pl"
+                        },
+                        {
+                            "id": "martyzan",
+                            "name": "Martyzan",
+                            "time": "10:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/martyzan",
+                            "icoimage": "content/images/artists/martyzan.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "United Sound Experience",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "tummytalk",
+                            "name": "Tummy Talk",
+                            "time": "12:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/tummy-talk",
+                            "icoimage": "content/images/artists/tummytalk.jpg",
+                            "profiletext": "Behind the Tummy Talk are two producers determined to share their passion for making music for the soul purpose of enjoyment and experience.<br><br>One of them, from Newtown, Wales has been producing music for over 18 years, working with record labels such as Hustle Recordings, Whoop! Records, Dirtyblue Records and Cuba Recordings. He has also been playing bass, keyboards and guitar for as long as he can remember.<br><br>Since 2010 he has been working on his project Akasha Experience alongside co-producer Babak Rezvani, in his studio in Cornwall (Southwest). The pair have released with Freespirit Records, Dubmission Records and with Audio Aashram.<br><br>The other, from Cornwall has been working on this project now since 2011,he has been working on his own project Growing-Seed-Of-Industry he is a master on the guitar and is quickly learning studio skills.<br><br>Tummy Talk is a new and exciting project bringing you music that combines various sounds, with the results culminating in fat, psychedelic, techy electro beats.",
+                            "shortdesc": "live",
+                            "booking": "Broken Robot",
+                            "origin": "uk"
+                        },
+                        {
+                            "id": "jarin",
+                            "name": "Jarin",
+                            "time": "13:30",
+                            "duration": 90,
+                            "wwwlink": "http://www.jarin.cz/",
+                            "icoimage": "content/images/artists/jarin.jpg",
+                            "profiletext": "Started DJing in 2004. Since 2005-6 started to play more in czech clubs and festivals. Favourite music styles are inteligent psytrance, australian psy progressive and breakbeat.",
+                            "shortdesc": "",
+                            "booking": "Yupisashi",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "jayex",
+                            "name": "Jayex",
+                            "time": "15:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/spacekirtan",
+                            "icoimage": "content/images/artists/jayex.jpg",
+                            "profiletext": "goa-psy trance and dubstep producer from dark forests of Bouzov microregion",
+                            "shortdesc": "live/dj",
+                            "booking": "U.S.E",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "etnoscope",
+                            "name": "Etnoscope",
+                            "time": "16:30",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/etnoscope",
+                            "icoimage": "content/images/artists/etnoscope.jpg",
+                            "profiletext": "In the mid 90s Raz and Ludde met through common friends, in the small town called Kristianstad. They devoted many nights to weird musical experimentation, most of the time in Raz notorious apartment. Throughout this crazy time the friends (now including Alex C & Linus Z) created the chill-out project \"Spooky minds\" from a few sessions with a unique sound every time since everything was completely improvised. Unfortunately there's nothing recorded from this time (or is it… ;-), but a lot of psychedelic memories remain, and of course they live through the project today.<br><br>After finishing school, Ludde left Kristianstad and worked as a freelance illustrator and wrote pianomusic. At the same time music-destiny brought Raz and Collin together. Collin had at this point done tracker techno for many years on his home PC. Of course they met each other at a party! When the common passions started falling into place they decided to put their resources together. Beside the computer, Raz was also a lucky owner of a KORG MS-20. His skills in creating warm analogue noises fitted right in (the MS-20 was of course something prominent in the Spooky minds sound as well). In a basement, in a room with cosy concrete walls, the first fragments of the Etnoscope studio became reality. In the MIDI-based studio Raz & Collin produced their first trance pieces in the name of Etnoscope. Some of the releases of today actually have their essence from these early tracks.<br><br>In the fall of 99, Ludde and Raz met a few times on common friends parties, and the music-discussions were obvious. So when Ludde came back to Sweden in early 2000 after a few months travelling in Africa, he visited Raz & Collin in Kristianstad. Instantly some funky sessions were recorded. Everybody felt that this was something to work with, after a few more amazingly tight sessions team Etnoscope became. 3 completely different individuals complementing each other very well and after playing live a few times they decided to go for this concept for real and try to strike a deal.<br><br>The Etnoscope studio is continually developing with new hardware and Live instruments in symbiosis with hardware and software processing. As a result of this the process looks a bit different from the early days. The typical etnoscope sound comes from the process of working with the actual sound more then the sequencing.",
+                            "shortdesc": "live",
+                            "booking": "Panzar Produktionz",
+                            "origin": "swe"
+                        },
+                        {
+                            "id": "pusherstreet",
+                            "name": "Pusherstreet",
+                            "time": "18:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/pusherstreetmusic",
+                            "icoimage": "content/images/artists/pusherstreet.jpg",
+                            "profiletext": "The Pusherstreet project was initially founded in the years 2004-2005 by Rasmus Alanne & Jesper Nilsson, who have been friends since they where teenagers. In 2005 Liam Dorff joined the project as a third member. The trio have known each other since they first met at a party called \"Tugga Metall\" in their hometown Kristianstad in 1999. They have many good memories that connect them together, also in close connection with the already critically acclaimed project Etnoscope. Jesper Nilsson then went for a musical break for about 18 months, but then came back to the group to produce tracks together again.<br><br>The reason to choose \"Pusherstreet\" as the title for this project is connected to the danish freetown Christiania - PusherStreet is the name of a street inmidst that district. Christiania used to be an open community with a tolerant culture, friendly people and a lively vibe, in other words, a very nice place to be. However, the danish government never wanted to accept this little city and despite having kind of tolerated it in the past, over the last years it has become harder and harder for Christiania to survive. The classical Pusher Street with its little shops and charming life had to close and meanwhile the whole area is in danger to be practically run over with construction sites under the fake-fancy coat of \"restructuring\" the place with modern architecture, when in truth the only motivation behind it is the money for the housing in the area!<br><br>Since Rasmus, Liam and Jesper have had really good memories from that place and know the trouble Christiania is in nowadays, they have decided to name their music project Pusherstreet as an honor to the good old times and to capture and preserve the vibe of this little city. And this can also be heard in the music. \"Join us a walk down Pusherstreet\" is one of their catchphrases.<br><br>However, this is not the only motivation behind their sound. Since the trio has observed the progress and development in the psychedelic trance scene and has witnessed that the sound overall turned from its originality and funky variety to a sort of unninovative collage where often the only choice a listener has is to either go for all-the-same-sounding fullon or for off-the-mill progressive, not forgetting that many parties have turned all the way more commercial over time. To be fair, one has to admit that there is still a certain number of really good artists, however, after some time they discovered they're practically listening to the same handful of artists over and over again. They felt that the music has basically lost its freshness and its fun. And that's why they decided to found this project, to bring back the originality, creativity and pulsating positivity that trance music used to be known for!<br><br>And so they created their own new, fresh, funky and biting progressive sound that is easily accesible and goes straight to the heart, making people dance. Free of commerciality and fake-emotionality that unfortunately have infected parts of the trance scene of today they created their \"Umpa Umpa, with a twist\"-sound to bring back the positivity and the fun within progressive trance!",
+                            "shortdesc": "live",
+                            "booking": "Panzar Produktionz",
+                            "origin": "swe"
+                        },
+                        {
+                            "id": "ashtoz",
+                            "name": "Ashtoz",
+                            "time": "19:30",
+                            "duration": 60,
+                            "wwwlink": "https://soundcloud.com/ashtoz",
+                            "icoimage": "content/images/artists/ashtoz.jpg",
+                            "profiletext": "Ataro vs Babak. Progy Deep Psychedelia",
+                            "shortdesc": "live",
+                            "booking": "Glitchy tonic",
+                            "origin": "uk"
+                        },
+                        {
+                            "id": "icaruz",
+                            "name": "IcaruZ",
+                            "time": "20:30",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/icaruzfreakaruz",
+                            "icoimage": "content/images/artists/icaruz.jpg",
+                            "profiletext": "Robin Griffin also known as IcaruZ started his psychedelic adventure in the early year 2000. In 2006 he started to dj, in the beginning it was mostly Goa spirited music and fullon, but the more time went by he became more and more progressive. These days he likes to play groovy funkadelic dark progressive music with fat bass lines and atmospherical trippy melodies. He has played on the moost of the Swedish forestpartys and festivals around the country and among artists like Shadow Fx, Sensient, Alien Mental, Penta, U-Recken, Artax, The Grobians and many more.",
+                            "shortdesc": "",
+                            "booking": "Uroboros",
+                            "origin": "swe"
+                        },
+                        {
+                            "id": "holikao",
+                            "name": "Holikao",
+                            "time": "22:30",
+                            "duration": 60,
+                            "wwwlink": "http://www.bmss.eu/?t=con_artists&id=45",
+                            "icoimage": "content/images/artists/holikao.jpg",
+                            "profiletext": "Holikao is a new project of Andreas Oehl from Leipzig.<br><br>Since his first serious encounters with the beauty of music (singing with his grandmother at age of 3) music always stayed a big part of his life. at the age of 6 he entered music school for learning violin and singing, which later switched to guitar lessons and boring musict heory for some years. After leaving music school as teenager he started to focus more on new forms of music, listening punk, hip hop and downbeats and he made his first experiences as a Dj.<br><br>When he got infected with Goatrance in middle of the nineties, he first started to focus his energy on the visual aspect of trance-events though, and was one of the founders of the meanwhile widely known decoteam Cosmic Walkers. From 1998 he then also got involved in the music, and played his first trance-dj-sets as Boscow.<br><br>Around 2004 he finally began to produce music in various styles, but focused mainly on Psychedelic trance, Ambient and experimental Electronica. In the past years he constantly improved his musical and technical knowledge, and over the time he developed an own unique style of true psychedelic night and day music… this style is mainly noticeable by the mixture of various elements from different styles, its not dark, nor is it fluffy, its not full on and not just groovy, its a bit from everything in on. Combined with energetic rolling basslines and pseudo-acoustic effects, not heard before, his live sets deliver a unforgettable listening experience for your minds and bodies.<br><br>In last years, he released 2 trance-albums and one downbeat-album on his own label littleBIGsensations and some more tracks on various compilations on different labels. The new project, Holikao, is focusing on Goatrance, sweet psychedelic and other shiny music. He is also producing Psytrance under the synonym of AodioiboA and Downtempo tunes as Waterling.",
+                            "shortdesc": "live",
+                            "booking": "BMSS",
+                            "origin": "de"
+                        },
+                        {
+                            "id": "aodioiboa",
+                            "name": "AodioiboA",
+                            "time": "23:30",
+                            "duration": 90,
+                            "wwwlink": "http://",
+                            "icoimage": "content/images/artists/aodioiboa.jpg",
+                            "profiletext": "AodioiboA is a project of Andreas Oehl from Leipzig.<br><br>Since his first serious encounters with the beauty of music (singing with his grandmother at age of 3) music always stayed a big part of his life. at the age of 6 he entered music school for learning violin and singing, which later switched to guitar lessons and boring musict heory for some years. After leaving music school as teenager he started to focus more on new forms of music, listening punk, hip hop and downbeats and he made his first experiences as a Dj.<br><br>When he got infected with Goatrance in middle of the nineties, he first started to focus his energy on the visual aspect of trance-events though, and was one of the founders of the meanwhile widely known decoteam Cosmic Walkers. From 1998 he then also got involved in the music, and played his first trance-dj-sets as Boscow.<br><br>Around 2004 he finally began to produce music in various styles, but focused mainly on Psychedelic trance, Ambient and experimental Electronica. In the past years he constantly improved his musical and technical knowledge, and over the time he developed an own unique style of true psychedelic night and day music… this style is mainly noticeable by the mixture of various elements from different styles, its not dark, nor is it fluffy, its not full on and not just groovy, its a bit from everything in on. Combined with energetic rolling basslines and pseudo-acoustic effects, not heard before, his live sets deliver a unforgettable listening experience for your minds and bodies.<br><br>In last years, he released 2 trance-albums and one downbeat-album on his own label littleBIGsensations and some more tracks on various compilations on different labels. He is also producing Psytrance under the synonym of AodioiboA and Downtempo tunes as Waterling.",
+                            "shortdesc": "live",
+                            "booking": "BMSS",
+                            "origin": "de"
+                        },
+                        {
+                            "id": "myproject",
+                            "name": "M.Y. Project",
+                            "time": "01:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/m-y-project",
+                            "icoimage": "content/images/artists/myproject.jpg",
+                            "profiletext": "M.Y. Project was born in Chile and during his first 6 years of life lived between the United States and Brazil. His musical development started at the age of 7 when took his first classical piano lessons, changing his studies from Piano to synthesizers at the age of 14 years old. At the age of 16 he started as a profesional Goa Trance DJ, beeing the main name of the first Chilean Goa Trance tribe doing high quality events in clubs and bringing this culture in the firsts huge Raves in Chile (1995-2000). Having several TV, Radio and Newspapers interviews. 2 years later he organizes his first Psychedelic Trance gathering. At the age of 23 he took a break to commit himself 100% to the world of Didgeridoos, working under the name Mack Yidhaky, releasing some of the most important albums for ethno world music and Didgeridoo, creating the firsts video clips for youtube based in 100% Didgeridoo and tribal sound and taking the record of the highest Youtube Hits in this musical area with his song Xtc Didgeridoo. Soon he would return to Psychedelic Trance as a musical producer under the name \"M.Y. Project\" (Mack Yidhaky Project). His concept from the begin was to bring to the people not just a musical and visual psychedelic experience, but to bring wisdom from the ancient cultures as Latinamerican native traditions, Indian and Tibetans concepts to the people as very important part of his events and gigs; Mack in his own philosophical and studies about psychology was investigating about Indian-Vedas and Tantras, the ideas of Carl Gustav Jung, as well as the European esoterism and paganism, also he is a very enthusiastic follower of the \"lost archeology\" based in the teory of Erich von Däniken, and the \"Ancient Astronaut\". The M.Y. Project sounds is powerful with deep textures, ceremonial sounds and penetrating baseline that lead us to a journey through our unconscious fears and the sweet melodies of our spirit. This work is based on studies of ancient cultures.",
+                            "shortdesc": "live",
+                            "booking": "Psymoon",
+                            "origin": "cl"
+                        },
+                        {
+                            "id": "gappeq",
+                            "name": "Gappeq",
+                            "time": "02:30",
+                            "duration": 120,
+                            "wwwlink": "http://www.myspace.com/gappeq",
+                            "icoimage": "content/images/artists/gappeq.jpg",
+                            "profiletext": "Hi, my name is Jiri Tomasek and i have been involved in music since i was 10 years old. My first steps with a guitar in my hand lead through folk&country music, shortly after that i started playing classical guitar. Later on i also played the keyboards and percussions in a live band.<br><br>It didn’t take long and i discovered electronic sounds and started exploring how to make some myself. I got a little MS-DOS based tracker called Tetramed, loaded up some 8-bit samples and filled all 4 available tracks with them! The software and hardware changed over the years, but not the passion. Musical styles didn’t matter to me, i’ve gone through d’n'b, breakbeat, trance, dub, house, industrial, ambient, and everthing in between. The change happened in 2000. Got into psytrance and couldn’t get out, so i stayed in and released some tracks on Ketuh Records. Response was good, more releases followed. I started playing at parties around Europe, then i moved to Sydney to study sound engineering at SAE for a few years.<br><br>My first official album was released during this period on Wirikuta Recordings. Music comes out of my computer, my only role being not to screw it up. It likes being driven by layers of atmospheric textures interlacing and weaving a way for an experienced and attentive listener. It has never been speed-driven.<br><br>2010 is the year of my second album, Made of Clay, released on Parvati Records.",
+                            "shortdesc": "live",
+                            "booking": "Parvati rec.",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "psyrix",
+                            "name": "Psyrix",
+                            "time": "04:30",
+                            "duration": 90,
+                            "wwwlink": "https://myspace.com/djpsyrix",
+                            "icoimage": "content/images/artists/psyrix.jpg",
+                            "profiletext": "Dj Psyrix aka Michal is a 31-year-old Czech artist with Greek and Polish roots living in Prague. His DJ career started in 1998 in the Czech underground techno scene. In 1999 he became one of the founding members of the Hedonix crew.<br><br>Together with Perplex, Prenatal and Searcher they helped to develop the Psytrance scene in Czech Republic. They started new festival projects such as the well known Valpurga festival and spread the psychedelic culture through the air with the show “Vibrations” on radio Akropolis.<br><br>In 2010 Psyrix completed his audio engineering degree in Amsterdam and then went on to start a project called “Silent Studio” which specializes in creative media and sound design<br><br>Psyrix is known for his unorthodox mixing style influenced by other music genres.<br><br>He focuses on excellent sound quality and prefered genre is organic forest trance with many breakdowns and twisted leads.",
+                            "shortdesc": "",
+                            "booking": "Hedonix",
+                            "origin": "cz"
+                        }
+                    ]
+                },
+                {
+                    "id": "chill",
+                    "name": "Chill Out",
+                    "artists": [
+                        {
+                            "id": "dacube",
+                            "name": "Dacube",
+                            "time": "07:00",
+                            "duration": 120,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Cosmic Frog",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "harry",
+                            "name": "Harry",
+                            "time": "09:00",
+                            "duration": 120,
+                            "wwwlink": "http://psyalaskacrew.wix.com/sk",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Psyalaska",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "psygor",
+                            "name": "Psygor",
+                            "time": "11:00",
+                            "duration": 120,
+                            "wwwlink": "http://psyalaskacrew.wix.com/sk",
+                            "icoimage": "content/images/artists/psygor.jpg",
+                            "profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic culture.",
+                            "shortdesc": "",
+                            "booking": "Psyalaska",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "kapec",
+                            "name": "Kapec",
+                            "time": "13:00",
+                            "duration": 120,
+                            "wwwlink": "http://psyalaskacrew.wix.com/sk",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Psyalaska",
+                            "origin": "sk"
+                        },
+                        {
+                            "id": "inkflo",
+                            "name": "Ink Flo",
+                            "time": "15:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/inkflopsy",
+                            "icoimage": "content/images/artists/inkflo.jpg",
+                            "profiletext": "Nejraději má různé odnože bass music (global bass, uk funky, electro, midget, bassline house, dubstep, wonky) v BPM rozmezí 130 - 135 BPM. Má zálibu v různorodosti, rychlém střídání substylů (nalomené/rovné, vokálové/instrumental) a tracků (většinou minimálně 30 za hodinu). Kromě toho rád valí i obskurní  ambient/psychedelic/experimental sety nebo všemožné minimal tucky alá Dirtybird Records, Worthy, Claude Vonstroke atp, a občas i psygressive záležitosti (Glitchy Tonic Records, Zenon Records atd.)",
+                            "shortdesc": "",
+                            "booking": "",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "kalumetindub",
+                            "name": "Kalumet in Dub",
+                            "time": "17:00",
+                            "duration": 120,
+                            "wwwlink": "http://www.kalumet.hu",
+                            "icoimage": "content/images/artists/kalumet.jpg",
+                            "profiletext": "Kalumet (Zoltan Vajda, Hungary) started his musical career in 1993 as a bass player in a school band. One year later he attended his first electronic dance party and his interests turned toward contemporary electronic music.<br><br>When his band splitted up, he got a computer and started to create his own sounds with acoustic and electronic instruments such as guitars, percussions, synths, and of course the computer. His first tracks were trance, dub, breakbeat and jazzy jungle tunes.<br><br>In the same time he and his friends founded a party promoter and dj collective project called Alapzaj (Basic Noise). The group was a significant point in the underground techno scene of Budapest.<br><br>The firstly released track (a remix of the famous Hungarian band, Korai Öröm, 1998) was soon followed by others on several compilations.<br><br>By this time he had deepened in psychedelic trance and concentrated on producing quality psychedelic music.<br><br>In 2000 he gave his first live act in an open air party in Hungary, in the same year he released a dub track on the first professional label, Chi Recordings. In the next year he went to Austria to play his first performance abroad. His unique style was highly appreciated so he become a well-known artist in Hungary. More and more realeses and gigs came, and that time he realised that making musical fusions are the most important things in creating new sounds so he started to mix genres in a tasty manner.<br><br>His first international big success was his live act on legendary Boom Festival in 2004 in Portugal, where 20 000 people gathered to see the best trance artists of the world.",
+                            "shortdesc": "live",
+                            "booking": "Halu Beats",
+                            "origin": "hu"
+                        },
+                        {
+                            "id": "mackyidhaki",
+                            "name": "Mack Yidhaki",
+                            "time": "19:00",
+                            "duration": 45,
+                            "wwwlink": "https://www.facebook.com/mack.yidhaky",
+                            "icoimage": "content/images/artists/mackyidhaki.jpg",
+                            "profiletext": "Mack Yidhaky, born in the city of Santiago de Chile, lives his early childhood in Brazil and The US. In his childhood he howed a great appreciation for music, mostly inherited from his family. He began experimenting and learning Piano at the age of 7 years old. changing his studies from Piano to synthesizers at the age of 14 years old. He discover the World-Music, meeting Eastern and western musical and philosophical traditions, developing a great interest in native cultures, music and ethno-instruments. This is how he meets the Didgeridoo which will steal his attention in this path he develop its first Didgeridoo concert and then the workshops. Between the years 1997 and 2000 he was working producing music and creating events in Chile, traveling later to find new expressions in art, he went to Argentina where was the begin of an enthusiastic group of Didgeridoo player and the first event about Didgeridoo in the city of Mendoza, Argentina. Following this he release the first stone in this musical history, this album was called \"Didgeridoo-Tribe\" and edited in the year 2004, which achieved great success with the track \"Xtc Didgeridoo\". It was one of the first Hits on YouTube for the Didgeridoo World, getting more than 90,000 visits in a short time. In 2005 he edited \"Connected\" a deep trip mixing electronic atmospheres with the beautiful sound of the Didgeridoo. Later, in 2006 he released a new album called \"Time To Dream\" which was definitely an experimental work to bring electronic rythms to the Didgeridoo music. In 2007 a lot of work appeared, inspired by the 4 basic elements of nature \"water, air, earth and fire\", the album was called \"Essence\", mixing the Drum &amp; Bass, Chill Out and Ambient music with shamanic prayes from latinamerica, aboriginal chants from Australia and the power of the Didgeridoo.<br><br>In the same year Mack Yidhaky begins his long-awaited journey to the heart of Australia to study and share with one of the oldest living culture of humanity, the \"Australian aboriginals\", where he was baptized with the name of Japangardi, what means the spiritual dream of the sacred origin of the food for the humankind. after this travel he was kept more and more busy with countless workshops and concerts. In 2010 he traveled to Spain and England to give his 2 firsts Concerts in Europe, with great success after each workshop and concert. He later returned to Chile for 2 years to host the world music event \"Grito De La Tierra\" (call of the earth), a conceptual event of dance and music around ethnic cultures. In 2011 countless productions, geting a special studio for Didgeridoo workshops, running every thursday in the evening, with more than 16 persons per sesion, this workshop was at least for 1 year with no stop. In 2012 published a new musical work that was recorded completely live, taking and compiling it into 5 pieces of music, album called \"Mack Yidhaky - Live Concert\", preparing what was his European tour 2012 to the most important Didgeridoo festivals of the world. in 2013, a new release appear called \"Back To The Roots\", is a call to the Didgeridoo world to not forgive the essence of the Didgeridoo, the spirit and the tribalism around this magical instrument. Nowadays Mack has been teaching and giving countless concerts in all around the world, countries as Chile, Argentina, Brazil, Spain, England, France, Germany, Portugal, Finland, Sweden, Australia and Israel have been part of beautiful events and stages for his unique Didgeridoo Concert.",
+                            "shortdesc": "live concert",
+                            "booking": "Didgearth Recs",
+                            "origin": "cl"
+                        },
+                        {
+                            "id": "smokevis",
+                            "name": "Smoke Visions",
+                            "time": "20:00",
+                            "duration": 60,
+                            "wwwlink": "https://soundcloud.com/smoke-visions",
+                            "icoimage": "content/images/artists/smoke-visions.jpg",
+                            "profiletext": "goa-psy trance and dubstep producer from dark forests of Bouzov microregion",
+                            "shortdesc": "live",
+                            "booking": "U.S.E",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "quanta",
+                            "name": "Quanta",
+                            "time": "21:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/quanta-uk",
+                            "icoimage": "content/images/artists/quanta.jpg",
+                            "profiletext": "Quanta is determined to share his passion for making music for the soul purpose of enjoyment and experience. Born in Newtown, Wales he has been producing music for over 18 years, working with record labels such as Hustle Recordings, Whoop! Records, Dirtyblue Records and Cuba Recordings. He has also been playing bass, keyboards and guitar for as long as he can remember.This project has been influenced by sounds from, interchill, TwistedMusic, bluetech and ott. Since 2010 he has been working on his project Akasha Experience alongside co-producer Babak Rezvani, in his studio in Cornwall (Southwest). The pair have released with Freespirit Records, Dubmission Records and with Audio Aashram. Quanta has releases with Enigmatik Records, Dubmission Records and Addictech Records. The Quanta project is a new and exciting solo project bringing you music that combines various worldwide influences, with the results culminating in down-tempo, glitchy, psychedelic chilled-out dub. Enjoy!!",
+                            "shortdesc": "",
+                            "booking": "Enigmatik records",
+                            "origin": "uk"
+                        },
+                        {
+                            "id": "akasha",
+                            "name": "Akasha",
+                            "time": "23:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/akashaexperience",
+                            "icoimage": "content/images/artists/akasha.jpg",
+                            "profiletext": "Behind the musical mysteries of Akasha Experience are a dedicated duo of psychedelic adventurers, spreading their dub infused sonic spores across the aether.<br><br>Influenced by world, ambient and sounds in nature, their psychedelic stew has found favor around the globe, with releases on Audio Ashram, FreeSpirit and Dubmission Records, and tours across Europe, New Zealand, Australia and the US",
+                            "shortdesc": "live",
+                            "booking": "Audio Ashram",
+                            "origin": "uk"
+                        },
+                        {
+                            "id": "tummytalk",
+                            "name": "Tummy Talk",
+                            "time": "00:30",
+                            "duration": 60,
+                            "wwwlink": "https://soundcloud.com/tummy-talk",
+                            "icoimage": "content/images/artists/tummytalk.jpg",
+                            "profiletext": "Behind the Tummy Talk are two producers determined to share their passion for making music for the soul purpose of enjoyment and experience.<br><br>One of them, from Newtown, Wales has been producing music for over 18 years, working with record labels such as Hustle Recordings, Whoop! Records, Dirtyblue Records and Cuba Recordings. He has also been playing bass, keyboards and guitar for as long as he can remember.<br><br>Since 2010 he has been working on his project Akasha Experience alongside co-producer Babak Rezvani, in his studio in Cornwall (Southwest). The pair have released with Freespirit Records, Dubmission Records and with Audio Aashram.<br><br>The other, from Cornwall has been working on this project now since 2011,he has been working on his own project Growing-Seed-Of-Industry he is a master on the guitar and is quickly learning studio skills.<br><br>Tummy Talk is a new and exciting project bringing you music that combines various sounds, with the results culminating in fat, psychedelic, techy electro beats.",
+                            "shortdesc": "live",
+                            "booking": "Broken Robot",
+                            "origin": "uk"
+                        },
+                        {
+                            "id": "waterling",
+                            "name": "Waterling",
+                            "time": "01:30",
+                            "duration": 120,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/waterling.jpg",
+                            "profiletext": "Waterling is a downtempo project of Andreas Oehl from Leipzig.<br><br>Since his first serious encounters with the beauty of music (singing with his grandmother at age of 3) music always stayed a big part of his life. at the age of 6 he entered music school for learning violin and singing, which later switched to guitar lessons and boring musict heory for some years. After leaving music school as teenager he started to focus more on new forms of music, listening punk, hip hop and downbeats and he made his first experiences as a Dj.<br><br>When he got infected with Goatrance in middle of the nineties, he first started to focus his energy on the visual aspect of trance-events though, and was one of the founders of the meanwhile widely known decoteam Cosmic Walkers. From 1998 he then also got involved in the music, and played his first trance-dj-sets as Boscow.<br><br>Around 2004 he finally began to produce music in various styles, but focused mainly on Psychedelic trance, Ambient and experimental Electronica. In the past years he constantly improved his musical and technical knowledge, and over the time he developed an own unique style of true psychedelic night and day music… this style is mainly noticeable by the mixture of various elements from different styles, its not dark, nor is it fluffy, its not full on and not just groovy, its a bit from everything in on. Combined with energetic rolling basslines and pseudo-acoustic effects, not heard before, his live sets deliver a unforgettable listening experience for your minds and bodies.<br><br>In last years, he released 2 trance-albums and one downbeat-album on his own label littleBIGsensations and some more tracks on various compilations on different labels. He is also producing Psytrance under the synonym of AodioiboA and Holikao.",
+                            "shortdesc": "live",
+                            "booking": "BMSS",
+                            "origin": "de"
+                        },
+                        {
+                            "id": "mihail",
+                            "name": "Mihail",
+                            "time": "03:30",
+                            "duration": 120,
+                            "wwwlink": "http://",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Cosmic Frog",
+                            "origin": "cz"
+                        },
+						{
+                            "id": "eklektikfl",
+                            "name": "Eklektik Fluidum",
+                            "time": "05:30",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/eklektik_fluidum",
+                            "icoimage": "content/images/artists/eklektik.jpg",
+                            "profiletext": "Fascinated by unique raw sound of drum and bass and powerful atmosphere of the first dvoika.troika parties in ostrava (1999), Eklektik Fluidum started playing drum and bass and promoting parties in his city (2001), which finaly led to the birth of basstillbeat crew (2002). hc nuskool, synthetic fractures, bugbears, amens & atmospheric cosmos were significant for his sets, but he was also collecting downtempo vinyls, especially from his beloved ninjatune label and czech god of belcanto karel gott ;). after several years filled with enthusiasm for dnb scene and of playing in clubs all over czech republic with people like: optiv/cause4concern, raw.full/ill.skillz, n.phect, mindscape, jade, crossfire, grooveside project, duster, axiom, rusher and czech dnb elite like: morebeat, no money, pixie, dvoika.troika crew etc. he felt bounded by the limits of one genre and began (2006) to explore alternative ways how to express his deep passion for music - the result is eklektik fluidum... melting pot of 70-170 bmp wonkadelic funkyglitched bassline psynergy without any genre limits :)",
+                            "shortdesc": "",
+                            "booking": "Bass:till:beat",
+                            "origin": "cz"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "nedele",
+            "name": "NEDĚLE",
+            "date": "25.8.2013",
+            "stages": [
+                {
+                    "id": "main",
+                    "name": "Main",
+                    "artists": [
+                        {
+                            "id": "petrix",
+                            "name": "Petrix",
+                            "time": "06:00",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/petrixx",
+                            "icoimage": "content/images/artists/petrix.jpg",
+                            "profiletext": "Peter Veresh aka Petrix was born in a small beautiful town by the Carpathian Mountains in Ukraine in 1986. His interest in art, music and nature was awakened in his early years. At the age of 14 Peter became deeply influenced by the energy of electronic sounds. It was revealed in a collection of contemporary music and the study of new rhythms. Peter’s first psy-trance experience was in Carpathian Mountains in 2001. Being inspired by new feelings, magic energy and great psy-trance experience. He started Djing psychedelic music, organizing parties and art projects together with Ukrainian promo group TranceCarpathiArts. His Dj career started in 2003 in Ukraine and has grown into constant bookings in other countries. It has broadened his vision of psy-culture existence and inspired Peter for self-development and perfection. Petrix’s passion was revealed through experiments with different psychedelic styles and he has always kept a unique sound and energy for his dj sets, which are deep hallucinogenic stories filled with tribal sounds over a powerful rhythmic base - in the night time light and peaceful, leaving the funkiest tales for the morning.",
+                            "shortdesc": "",
+                            "booking": "Trancecarpathiarts",
+                            "origin": "ua"
+                        },
+                        {
+                            "id": "starf",
+                            "name": "Starf",
+                            "time": "07:30",
+                            "duration": 90,
+                            "wwwlink": "http://www.idj.cz/starf/",
+                            "icoimage": "content/images/artists/starf.jpg",
+                            "profiletext": "Narozen 1988 v Praze, o hudbu se zacal zajimat jiz v utlem mladi, nicmene k EDM se dostal az ve svych 17 letech pres prog trance.<br><br>V zacatcich (r. 2007) cca pul roku experimentoval s ruznymi styly az nakonec zakotvil u melodictejsiho minimalu a pribuzne muziky, kteremu zustal verny cca 2 roky. Posledni 4 roky se drzi psychedelicke hudby - psytrance, goa, ambient, chillout, acid techno.<br><br>Fascinuje ho take analogova synteza, kterou rad objevuje doma po vecerech.",
+                            "shortdesc": "",
+                            "booking": "Otrozona",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "psyla",
+                            "name": "Psyla",
+                            "time": "09:00",
+                            "duration": 120,
+                            "wwwlink": "https://www.facebook.com/ondrejpsyla",
+                            "icoimage": "content/images/artists/psyla.jpg",
+                            "profiletext": "Ondřej Valenta aka Ondrej Psyla is dj&label manager Mystical Waves Records.<br><br>He has been organizing psytrance parties since then and his DJ career began 3 years later in 2004. He started as a member of Trancedelic crew, became a founding member of Mystical Waves crew in 2004 and has been a substantial part of this group until today.<br><br>His sets range from 135 bpm (progressive trance) through 145 bpm (melodic mornig full-on trance) to 148bpm (night psytrance).<br><br>He enjoys presenting tracks by Protonica, Ovnimoon, Egorythmia, EClip, Ace Ventura, Liquid Soul, Symphonix, Jaia, Zen Mechanics, Nok, Freq, Suntree, Aerospace, Earsugar, Gaudium, Andromeda, Zyce, Nerso, Flegma, Sideform, Ectima, AMD, Sangeet, Aphid Moon, Corona, Tristan, Bitkit, Opptokopler, Ephedrix, Aquila, Fearsome Engine, Virtual Light, Sufi, Digicult, Dickster, Burn In Noise, Etnica, Pleidians, Silicon Sound, Atma, Electric Universe, Braincell, Rastaliens, EVP, RealityGrid, Archaic, Trold, Imaginary Sight, Penta, Psymmetrix, Parasense, Lemurians, Scorb, Suria, Hoodwink, DISSOCIACTIVE, Fungus Funk, Asimilon, Dust, Pantomiman, Ianuaria, Mole, Pararhythm, Haraburda, Dirty Saffi, Synthetik Chaos, Leftism, Flame and many more.<br><br>He also has a DJ chill out project on behalf Psyla in Waves.<br><br>In his appearances he prefers psychill, dub and ambient. He likes longer chill out sets which give him enough time to create special feeling and better atmosphere among the audience.<br><br>He lives and works in Prague.<br><br>He became a label DJ of Goblin Records, which specializes in darker kind of psytrance - dark psychedelic. Style of his playing progressed in another direction and so he left the label in 2010.",
+                            "shortdesc": "",
+                            "booking": "Mystical Waves",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "cejn",
+                            "name": "Cejn",
+                            "time": "11:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/dj-cejn",
+                            "icoimage": "content/images/artists/cejn.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Zeropoint",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "neurosponge",
+                            "name": "Neurosponge",
+                            "time": "13:00",
+                            "duration": 90,
+                            "wwwlink": "http://www.hedonix.cz",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Hedonix",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "endmain",
+                            "name": "x- all stars free jam -x",
+                            "time": "14:30",
+                            "duration": 90,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "",
+                            "origin": ""
+                        }
+                    ]
+                },
+                {
+                    "id": "chill",
+                    "name": "Chill Out",
+                    "artists": [
+						{
+                            "id": "kashmir",
+                            "name": "Kashmir",
+                            "time": "07:30",
+                            "duration": 120,
+                            "wwwlink": "http://www.mimo.cz",
+                            "icoimage": "content/images/artists/kashmir.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "Mimo TV",
+                            "origin": "cz"
+                        },
+						{
+                            "id": "subdvisionz",
+                            "name": "Sub.d.visionz",
+                            "time": "09:30",
+                            "duration": 90,
+                            "wwwlink": "https://soundcloud.com/sub-d-visionz",
+                            "icoimage": "content/images/artists/subdvisionz.jpg",
+                            "profiletext": "Zakladatel legendární severomoravské Dvoika.Troika crew od 7 let hrál na zobcovou flétnu v LŠU, ale na konci základní školy ho začala více lákat elektronika a taneční hudba. Hodně ho v té době ovlivnily projekty jako Depeche Mode, Front 242, Technotronic, KLF, Kraftwerk atd. S hraním na flétnu přestal a začal se sousedem dělat první pokusy s automatickým bubeníkem Roland a klávesami Kawaii. Za maturitu dostal zvukovku, přikoupil si klávesy CS1 X a začal se o tvorbu pokoušet znovu. To poslouchal spíše hiphop, triphop, acid, techno, rave a tehdy čím dál rychleji rostoucí drum and bass. Aktuálně, po určité tvůrčí pauze, se pohybuje spíše na poli breakz a funky, ale prvky drumandbass jsou v jeho tvorbě stále cítit.",
+                            "shortdesc": "",
+                            "booking": "dvoika.troika",
+                            "origin": "cz"
+                        },
+                        {
+                            "id": "petrix",
+                            "name": "Petrix",
+                            "time": "11:00",
+                            "duration": 120,
+                            "wwwlink": "https://soundcloud.com/petrixx",
+                            "icoimage": "content/images/artists/petrix.jpg",
+                            "profiletext": "Peter Veresh aka Petrix was born in a small beautiful town by the Carpathian Mountains in Ukraine in 1986. His interest in art, music and nature was awakened in his early years. At the age of 14 Peter became deeply influenced by the energy of electronic sounds. It was revealed in a collection of contemporary music and the study of new rhythms. Peter’s first psy-trance experience was in Carpathian Mountains in 2001. Being inspired by new feelings, magic energy and great psy-trance experience. He started Djing psychedelic music, organizing parties and art projects together with Ukrainian promo group TranceCarpathiArts. His Dj career started in 2003 in Ukraine and has grown into constant bookings in other countries. It has broadened his vision of psy-culture existence and inspired Peter for self-development and perfection. Petrix’s passion was revealed through experiments with different psychedelic styles and he has always kept a unique sound and energy for his dj sets, which are deep hallucinogenic stories filled with tribal sounds over a powerful rhythmic base - in the night time light and peaceful, leaving the funkiest tales for the morning.",
+                            "shortdesc": "",
+                            "booking": "Trancecarpathiarts",
+                            "origin": "ua"
+                        },
+                        {
+                            "id": "psyla",
+                            "name": "Psyla",
+                            "time": "13:00",
+                            "duration": 120,
+                            "wwwlink": "https://www.facebook.com/ondrejpsyla",
+                            "icoimage": "content/images/artists/psyla.jpg",
+                            "profiletext": "Ondřej Valenta aka Ondrej Psyla is dj&label manager Mystical Waves Records.<br><br>He has been organizing psytrance parties since then and his DJ career began 3 years later in 2004. He started as a member of Trancedelic crew, became a founding member of Mystical Waves crew in 2004 and has been a substantial part of this group until today.<br><br>His sets range from 135 bpm (progressive trance) through 145 bpm (melodic mornig full-on trance) to 148bpm (night psytrance).<br><br>He enjoys presenting tracks by Protonica, Ovnimoon, Egorythmia, EClip, Ace Ventura, Liquid Soul, Symphonix, Jaia, Zen Mechanics, Nok, Freq, Suntree, Aerospace, Earsugar, Gaudium, Andromeda, Zyce, Nerso, Flegma, Sideform, Ectima, AMD, Sangeet, Aphid Moon, Corona, Tristan, Bitkit, Opptokopler, Ephedrix, Aquila, Fearsome Engine, Virtual Light, Sufi, Digicult, Dickster, Burn In Noise, Etnica, Pleidians, Silicon Sound, Atma, Electric Universe, Braincell, Rastaliens, EVP, RealityGrid, Archaic, Trold, Imaginary Sight, Penta, Psymmetrix, Parasense, Lemurians, Scorb, Suria, Hoodwink, DISSOCIACTIVE, Fungus Funk, Asimilon, Dust, Pantomiman, Ianuaria, Mole, Pararhythm, Haraburda, Dirty Saffi, Synthetik Chaos, Leftism, Flame and many more.<br><br>He also has a DJ chill out project on behalf Psyla in Waves.<br><br>In his appearances he prefers psychill, dub and ambient. He likes longer chill out sets which give him enough time to create special feeling and better atmosphere among the audience.<br><br>He lives and works in Prague.<br><br>He became a label DJ of Goblin Records, which specializes in darker kind of psytrance - dark psychedelic. Style of his playing progressed in another direction and so he left the label in 2010.",
+                            "shortdesc": "",
+                            "booking": "Mystical Waves",
+                            "origin": "cz"
+                        },
+						{
+                            "id": "endchill",
+                            "name": "x-  all stars free jam -x",
+                            "time": "15:00",
+                            "duration": 180,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "",
+                            "origin": ""
+                        },
+                        {
+                            "id": "after",
+                            "name": "x- afterparty -x",
+                            "time": "15:00",
+                            "duration": 360,
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
+                            "profiletext": "",
+                            "shortdesc": "",
+                            "booking": "",
+                            "origin": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
-{
-"id": "trimurthi",
-"name": "Trimurthi",
-"time": "03:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/kalumet.jpg",
-"profiletext": "TRIMURTHI means three forms concept of supreme consciousness of cosmos which represent basic sacred forces - creation, maintenance and transformation. This concept of solo project was based on spiritual overtones by artist from Slovakia.<br><br>Trimurthi has performed on gatherings with projects like Parasense, Acid Goblin, Megalopsy, Distorted Goblin, Yudhisthira, Gappeq, Blisargon Demogorgon, Electrypnose, DoHm, Kalumet...<br><br>He prefers more kinds of trance music, mostly juicy deep psytrance and labels like Avatar, Parvati, Omveda, Yggdrasil, Dragonfly, Zaikadelic, Freaks and many more.<br><br>In trance dance culture prefer spirituality, depth, higher cosmic vibrations, inner space, higher levels of consciousness and connecting with Cosmic Spirit.",
-"shortdesc": "live",
-"booking": "",
-"origin": "sk"
-},
-{
-"id": "nulatri",
-"name": "000333",
-"time": "04:30",
-"duration": 90,
-"wwwlink": "http://www.mimo.cz",
-"icoimage": "content/images/artists/000333.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Mimo TV",
-"origin": "cz"
-}
-]
-},
-{
-"id": "chill",
-"name": "Chill Out",
-"artists": [
-{
-"id": "kubis",
-"name": "Kubis",
-"time": "20:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Indian Express",
-"origin": "cz"
-},
- {
-"id": "atati",
-"name": "Atati",
-"time": "21:30",
-"duration": 120,
-"wwwlink": "http://www.last.fm/music/Atati",
-"icoimage": "content/images/artists/atati.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Blue Hour Sounds",
-"origin": "ua"
-},
-{
-"id": "alexdaf",
-"name": "Alexander Daf",
-"time": "23:30",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/alexanderdaf",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "Under the stage name Alexander Daf acts Alexander Ivanov - a young and talented musician from St. Petersburg. As a devoted fan of ambient and chillout music, he creates his own unique sound. Its elements - endless ambient landscapes, complex rhythmic structures and subtle mood eastern ethnic. Alexander Dafa music is known and loved throughout the world. His work has been published in Italy (Laverna), Latvia (Elpa), Ukraine (Sentimony) and other legendary Lithuanian no-label Sutemos included track Dafa Inflow in the compilation of the IntelligentToys4, which was also presented creations of famous musicians - Vladislav Delay, Lackluster, Sleepy Town Manufacture, Funckarma and many others.<br><br>At the end of 2008 will be released a full album on System Recordings. Where their earlier work published artists such as: James Holden, Dieselboy, Evol Intent, Miss Kittin, Adam F and etc.<br><br>Currently, Alexander Daf is an integral part of the promotional group Sun Station, regularly performs in St. Petersburg (clubs' Griboyedov », F-108, Inside, Port, Respect) and other Russian cities, as well as taking participated in many large-scale festivals and open-airs - Klusadaba Intellectual Picnic (Riga, Latvia), Euthanasia (Minsk, Belarus), Trimurti Festival (Moscow, Russia), Armageddon Festival (Russia), etc.",
-"shortdesc": "live",
-"booking": " Aleph Zero rec.",
-"origin": "ru"
-},
-{
-"id": "ogidogi",
-"name": "Ogi dogi",
-"time": "01:30",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/yudhisthira",
-"icoimage": "content/images/artists/ogidogi.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Vertigo rec.",
-"origin": "ua"
-},
-{
-"id": "gunsiq",
-"name": "Guns IQ",
-"time": "03:30",
-"duration": 120,
-"wwwlink": "http://www.trootootoo.com/",
-"icoimage": "content/images/artists/gunsiq.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Trootootoo",
-"origin": "ru"
-},
-{
-"id": "psygor",
-"name": "Psygor, Kapec, Harry",
-"time": "05:30",
-"duration": 30,
-"wwwlink": "http://psyalaskacrew.wix.com/sk",
-"icoimage": "content/images/artists/psygor.jpg",
-"profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
-"shortdesc": "",
-"booking": "psyalaska",
-"origin": "sk"
-}
-]
-}
-]
-},
-{
-"id": "sobota",
-"name": "SOBOTA",
-"date": "23.8.2014",
-"stages": [
-{
-"id": "main",
-"name": "Main",
-"artists": [
-{
-"id": "ejczka",
-"name": "Ejczka",
-"time": "06:30",
-"duration": 90,
-"wwwlink": "https://soundcloud.com/ejczka",
-"icoimage": "content/images/artists/ejczka.jpg",
-"profiletext": "Jan Horyna aka dj Ejczka has been DJing and organizing gigs since 2009 and in a short time established at Czech psytrance scene. Together with DJ Plech is a member of Polyhedra crew which organizes not only at psy scene well respected multigenre audiovisual parties Der Klang at famous Cross club in Prague. His sets range from hypnotic dark psychedelic around 152 bpm thru pure psytrance around 146 bpm to down trance line morning psytrance 143 bpm. Always depends on concept of party, but always keep his sets psychedelic. During his appearances you can hear tracks by Silent Horror, Parus, Orestis, Kryptum, LAB, Olien, Psykovsky, Sartor Arepo, Chromatec, RawaR, GappeQ, Xenomorph, Atriohm, Encephalopaticys, Jahbo, Derango, Farebi Jalebi, Ajja, RED, Parasense, Electrypnose, Scatterbrain or some melodic stuff by Mr. Peculiar, Sonic Species, Logic Bomb, S-Range, Hujaboy, Psypilot, Ovnimoon, Gyrro, Cosma and many more. Sometimes he plays b2b sets with DJ Plech (dark psychedelic) or with DJ Ondrej Psyla (Mystical Waves Records) in morning time.<br><br>Besides psychedelic trance he has been playing deep d`n`b and autonomic sound to perform actual progressive broken beatz sound which is his old love for many years.",
-"shortdesc": "",
-"booking": "Polyhedra",
-"origin": "cz"
-},
-{
-"id": "holikao",
-"name": "Holikao",
-"time": "08:00",
-"duration": 60,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/holikao.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": ""
-},
-{
-"id": "styropian",
-"name": "Styropian",
-"time": "10:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/styropian.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": ""
-},
-{
-"id": "martyzan",
-"name": "Martyzan",
-"time": "10:30",
-"duration": 90,
-"wwwlink": "https://soundcloud.com/martyzan",
-"icoimage": "content/images/artists/martyzan.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "U.S.E",
-"origin": "cz"
-},
-{
-"id": "tummytalk",
-"name": "Tummy Talk",
-"time": "12:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/tummytalk.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "",
-"origin": ""
-},
-{
-"id": "jarin",
-"name": "Jarin",
-"time": "13:30",
-"duration": 90,
-"wwwlink": "http://www.jarin.cz/",
-"icoimage": "content/images/artists/jarin.jpg",
-"profiletext": "Started DJing in 2004. Since 2005-6 started to play more in czech clubs and festivals. Favourite music styles are inteligent psytrance, australian psy progressive and breakbeat.",
-"shortdesc": "",
-"booking": "Yupisashi",
-"origin": "cz"
-},
-{
-"id": "etnocope",
-"name": "Etnocope",
-"time": "15:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/etnocope.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "",
-"origin": ""
-},
-{
-"id": "pusherstreet",
-"name": "Pusherstreet",
-"time": "16:30",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/pusherstreet.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "",
-"origin": ""
-},
-{
-"id": "ashtoz",
-"name": "Ashtoz",
-"time": "18:00",
-"duration": 60,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/ashtoz.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "",
-"origin": ""
-},
-{
-"id": "icaruz",
-"name": "Icaruz",
-"time": "19:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/icaruz.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": ""
-},
-{
-"id": "dwaid",
-"name": "Dwaid",
-"time": "21:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/dwaid.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": ""
-},
-{
-"id": "myproject",
-"name": "MY Project",
-"time": "22:30",
-"duration": 90,
-"wwwlink": "myproject",
-"icoimage": "content/images/artists/myproject.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "",
-"origin": ""
-},
-{
-"id": "psyrix",
-"name": "Psyrix",
-"time": "00:00",
-"duration": 90,
-"wwwlink": "https://myspace.com/djpsyrix",
-"icoimage": "content/images/artists/psyrix.jpg",
-"profiletext": "Dj Psyrix aka Michal is a 31-year-old Czech artist with Greek and Polish roots living in Prague.His DJ career started in 1998 in the Czech underground techno scene. In 1999 he became one of the founding members of the Hedonix crew.<br><br>Together with Perplex, Prenatal and Searcher they helped to develop the Psytrance scene in Czech Republic. They started new festival projects such as the well known Valpurga festival and spread the psychedelic culture through the air with the show “Vibrations” on radio Akropolis.<br><br>In 2010 Psyrix completed his audio engineering degree in Amsterdam and then went on to start a project called “Silent Studio” which specializes in creative media and sound design<br><br>Psyrix is known for his unorthodox mixing style influenced by other music genres.<br><br>He focuses on excellent sound quality and prefered genre is organic forest trance with many breakdowns and twisted leads.",
-"shortdesc": "",
-"booking": "Nedonix",
-"origin": "cz"
-},
-{
-"id": "gappeq",
-"name": "Gappeq",
-"time": "01:30",
-"duration": 120,
-"wwwlink": "http://www.myspace.com/gappeq",
-"icoimage": "content/images/artists/gappeq.jpg",
-"profiletext": "Hi, my name is Jiri Tomasek and i have been involved in music since i was 10 years old. My first steps with a guitar in my hand lead through folk&country music, shortly after that i started playing classical guitar. Later on i also played the keyboards and percussions in a live band.<br><br>It didn’t take long and i discovered electronic sounds and started exploring how to make some myself. I got a little MS-DOS based tracker called Tetramed, loaded up some 8-bit samples and filled all 4 available tracks with them! The software and hardware changed over the years, but not the passion. Musical styles didn’t matter to me, i’ve gone through d’n'b, breakbeat, trance, dub, house, industrial, ambient, and everthing in between. The change happened in 2000. Got into psytrance and couldn’t get out, so i stayed in and released some tracks on Ketuh Records. Response was good, more releases followed. I started playing at parties around Europe, then i moved to Sydney to study sound engineering at SAE for a few years.<br><br>My first official album was released during this period on Wirikuta Recordings. Music comes out of my computer, my only role being not to screw it up. It likes being driven by layers of atmospheric textures interlacing and weaving a way for an experienced and attentive listener. It has never been speed-driven.<br><br>2010 is the year of my second album, Made of Clay, released on Parvati Records.",
-"shortdesc": "live",
-"booking": "Parvati rec.",
-"origin": "cz"
-},
-{
-"id": "nulatri",
-"name": "000333",
-"time": "03:30",
-"duration": 90,
-"wwwlink": "http://www.mimo.cz",
-"icoimage": "content/images/artists/000333.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Mimo TV",
-"origin": "cz"
-},
-{
-"id": "turo",
-"name": "Turo",
-"time": "05:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/turo.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": ""
-}
-]
-},
-{
-"id": "chill",
-"name": "Chill Out",
-"artists": [
-{
-"id": "psygor",
-"name": "Psygor, Kapec, Harry",
-"time": "06:00",
-"duration": 230,
-"wwwlink": "http://psyalaskacrew.wix.com/sk",
-"icoimage": "content/images/artists/psygor.jpg",
-"profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
-"shortdesc": "",
-"booking": "psyalaska",
-"origin": "sk"
-},
-{
-"id": "glob",
-"name": "Glob a Globbeq",
-"time": "10:30",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "U.S.E",
-"origin": "cz"
-},
-{
-"id": "shantiboy",
-"name": "Shantiboy 108",
-"time": "12:00",
-"duration": 90,
-"wwwlink": "https://soundcloud.com/shantiboy108",
-"icoimage": "content/images/artists/shantiboy.jpg",
-"profiletext": "Shantiboy108 je skromný a duchovní člověk a proto o sobě nechce nic sdělit",
-"shortdesc": "",
-"booking": "",
-"origin": "cz"
-},
-{
-"id": "petrix",
-"name": "Petrix",
-"time": "13:30",
-"duration": 90,
-"wwwlink": "https://soundcloud.com/petrixx",
-"icoimage": "content/images/artists/petrix.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Trancecarpathiarts",
-"origin": "ua"
-},
-{
-"id": "dacube",
-"name": "Dacube",
-"time": "15:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Cosmic Frog",
-"origin": "cz"
-},
-{
-"id": "nulatri",
-"name": "000333",
-"time": "16:30",
-"duration": 90,
-"wwwlink": "http://www.mimo.cz",
-"icoimage": "content/images/artists/000333.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Mimo TV",
-"origin": "cz"
-},
-{
-"id": "dizetai",
-"name": "Dizetai",
-"time": "18:00",
-"duration": 90,
-"wwwlink": "https://soundcloud.com/dizetai",
-"icoimage": "content/images/artists/dizetai.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "WKC",
-"origin": "cz"
-},
-{
-"id": "boomanga",
-"name": "Boomanga",
-"time": "19:30",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/boomanga",
-"icoimage": "content/images/artists/boomanga.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "Chaotic Experience",
-"origin": "ru"
-},
-{
-"id": "seamoon",
-"name": "Seamoon",
-"time": "21:30",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/seamoon",
-"icoimage": "content/images/artists/seamoon.jpg",
-"profiletext": "Seamoon is the psychedelic chillout project of Simon Neumann, a German artist and educated audio engineer, located in South Germany. With a background as a jazz drummer in his youth, Simon got sucked into psychedelic electronic music when he was about 17. From then on, he spent his freetime tweaking exotic psychedelic downtempo beats with mystical atmospheres and twisted lead sounds.<br><br>Without any certain approach, philosophy or thought, Simon creats his music directly out of his deeper inner essence and tries to express his rising emotions of the moment through the medium of sound. See, hear, feel and understand his music as what it really is: Just an expression of the moment, whose depth can be explored to infinity.",
-"shortdesc": "",
-"booking": "Awakening rec.",
-"origin": "de"
-},
-{
-"id": "smokevis",
-"name": "Smoke Visions",
-"time": "23:30",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/smoke-visions",
-"icoimage": "content/images/artists/smoke-visions.jpg",
-"profiletext": "goa-psy trance and dubstep producer from dark forests of Bouzov microregion",
-"shortdesc": "live",
-"booking": "U.S.E",
-"origin": "cz"
-},
-{
-"id": "mihail",
-"name": "Mihail",
-"time": "01:30",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Cosmic Frog",
-"origin": "cz"
-},
-{
-"id": "darjeel",
-"name": "Darjeel",
-"time": "03:00",
-"duration": 90,
-"wwwlink": "https://soundcloud.com/darjeel",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Glitch.cz",
-"origin": "cz"
-},
-{
-"id": "eklektikfl",
-"name": "Eklektik Fluidum",
-"time": "04:30",
-"duration": 90,
-"wwwlink": "https://soundcloud.com/eklektik_fluidum",
-"icoimage": "content/images/artists/eklektik.jpg",
-"profiletext": "Fascinated by unique raw sound of drum and bass and powerful atmosphere of the first dvoika.troika parties in ostrava (1999), Eklektik Fluidum started playing drum and bass and promoting parties in his city (2001), which finaly led to the birth of basstillbeat crew (2002). hc nuskool, synthetic fractures, bugbears, amens & atmospheric cosmos were significant for his sets, but he was also collecting downtempo vinyls, especially from his beloved ninjatune label and czech god of belcanto karel gott ;). after several years filled with enthusiasm for dnb scene and of playing in clubs all over czech republic with people like: optiv/cause4concern, raw.full/ill.skillz, n.phect, mindscape, jade, crossfire, grooveside project, duster, axiom, rusher and czech dnb elite like: morebeat, no money, pixie, dvoika.troika crew etc. he felt bounded by the limits of one genre and began (2006) to explore alternative ways how to express his deep passion for music - the result is eklektik fluidum... melting pot of 70-170 bmp wonkadelic funkyglitched bassline psynergy without any genre limits :)",
-"shortdesc": "",
-"booking": "Bass:till:beat",
-"origin": "cz"
-}
-]
-}
-]
-},
-		{
-"id": "nedele",
-"name": "NEDĚLE",
-"date": "25.8.2013",
-"stages": [
-{
-"id": "main",
-"name": "Main",
-"artists": [
-{
-"id": "psyla",
-"name": "Psyla",
-"time": "06:30",
-"duration": 90,
-"wwwlink": "https://www.facebook.com/ondrejpsyla",
-"icoimage": "content/images/artists/psyla.jpg",
-"profiletext": "Ondřej Valenta aka Ondrej Psyla is dj&label manager Mystical Waves Records.<br><br>He has been organizing psytrance parties since then and his DJ career began 3 years later in 2004. He started as a member of Trancedelic crew, became a founding member of Mystical Waves crew in 2004 and has been a substantial part of this group until today.<br><br>His sets range from 135 bpm (progressive trance) through 145 bpm (melodic mornig full-on trance) to 148bpm (night psytrance).<br><br>He enjoys presenting tracks by Protonica, Ovnimoon, Egorythmia, EClip, Ace Ventura, Liquid Soul, Symphonix, Jaia, Zen Mechanics, Nok, Freq, Suntree, Aerospace, Earsugar, Gaudium, Andromeda, Zyce, Nerso, Flegma, Sideform, Ectima, AMD, Sangeet, Aphid Moon, Corona, Tristan, Bitkit, Opptokopler, Ephedrix, Aquila, Fearsome Engine, Virtual Light, Sufi, Digicult, Dickster, Burn In Noise, Etnica, Pleidians, Silicon Sound, Atma, Electric Universe, Braincell, Rastaliens, EVP, RealityGrid, Archaic, Trold, Imaginary Sight, Penta, Psymmetrix, Parasense, Lemurians, Scorb, Suria, Hoodwink, DISSOCIACTIVE, Fungus Funk, Asimilon, Dust, Pantomiman, Ianuaria, Mole, Pararhythm, Haraburda, Dirty Saffi, Synthetik Chaos, Leftism, Flame and many more.<br><br>He also has a DJ chill out project on behalf Psyla in Waves.<br><br>In his appearances he prefers psychill, dub and ambient. He likes longer chill out sets which give him enough time to create special feeling and better atmosphere among the audience.<br><br>He lives and works in Prague.<br><br>He became a label DJ of Goblin Records, which specializes in darker kind of psytrance - dark psychedelic. Style of his playing progressed in another direction and so he left the label in 2010.",
-"shortdesc": "",
-"booking": "Mystical Waves | Polyhedra",
-"origin": "cz"
-},
-{
-"id": "cejn",
-"name": "Cejn",
-"time": "08:00",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/wirrareka",
-"icoimage": "content/images/artists/wirrareka.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "Mystical Waves",
-"origin": "sk"
-},
-{
-"id": "santac",
-"name": "San&amp;Tac",
-"time": "10:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/santac.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": ""
-},
-{
-"id": "genaro",
-"name": "Genaro",
-"time": "11:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/genaro.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": "cz"
-},
-{
-"id": "neurosponge",
-"name": "Neurosponge",
-"time": "12:30",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/neurosponge.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": ""
-},
-{
-"id": "suprise",
-"name": "??",
-"time": "14:00",
-"duration": 180,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "",
-"origin": ""
-}
-]
-},
-{
-"id": "chill",
-"name": "Chill Out",
-"artists": [
-{
-"id": "kashmir",
-"name": "Kashmir",
-"time": "06:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Hedonix",
-"origin": "cz"
-},
-{
-"id": "psygor",
-"name": "Psygor, Kapec, Harry",
-"time": "07:30",
-"duration": 270,
-"wwwlink": "http://psyalaskacrew.wix.com/sk",
-"icoimage": "content/images/artists/psygor.jpg",
-"profiletext": "Igor Bendik aka Psygor is one of the founders and managers of PsyAlaska Tribe collective (2001), which became famous for its activities in the development of psychedelic trance scene in Slovakia and cyclic open air party on the mountain summit called Chvatimech (870 m). Psygor constantly takes participant in an organization of various psyevents, parties and chai-shops. He also decorates and engages in promotion of psychedelic cultue.<br><br>",
-"shortdesc": "",
-"booking": "psyalaska",
-"origin": "sk"
-},
-{
-"id": "mihail",
-"name": "Mihail",
-"time": "12:00",
-"duration": 300,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/blank.jpg",
-"profiletext": "",
-"shortdesc": "",
-"booking": "Cosmic Frog",
-"origin": "cz"
-}
-]
-}
-]
-}
-]
-}
-
-
-
-
-
-
-/*
-
-,
-{
-"id": "aodioiboa",
-"name": "Aodioiboa",
-"time": "05:00",
-"duration": 90,
-"wwwlink": "http://",
-"icoimage": "content/images/artists/aodioiboa.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "",
-"origin": ""
-}
-
-{
-"id": "spatial",
-"name": "Spatial Feature",
-"time": "01:00",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/spatial_feature",
-"icoimage": "content/images/artists/spatial-feature.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "Ouloop prod.",
-"origin": "ru"
-},
-{
-"id": "chors",
-"name": "Chors",
-"time": "03:00",
-"duration": 120,
-"wwwlink": "https://soundcloud.com/chors",
-"icoimage": "content/images/artists/chors.jpg",
-"profiletext": "",
-"shortdesc": "live",
-"booking": "Timeflux rec.",
-"origin": "sk"
-},
-
-*/
