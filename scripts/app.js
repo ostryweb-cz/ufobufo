@@ -1,4 +1,4 @@
-﻿var posledniHodinaNoci = 6;
+﻿var posledniHodinaNoci = 6; //hodina, kde se lomi dny
 
 function parseDatum(strdatum, strcas){
 	var parts = strdatum.split('.');
