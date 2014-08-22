@@ -1,6 +1,6 @@
 {
     "name": "UFO BUFO",
-    "updated": "9.8.2014 23:23",
+    "updated": "22.8.2014 12:50",
     "days": [
         {
             "id": "patek",
@@ -101,7 +101,7 @@
                             "time": "04:30",
                             "duration": 90,
                             "wwwlink": "",
-                            "icoimage": "content/images/artists/blank.jpg",
+                            "icoimage": "content/images/artists/blank.png",
                             "profiletext": "",
                             "shortdesc": "",
                             "booking": "",
