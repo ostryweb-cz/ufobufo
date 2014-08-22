@@ -96,15 +96,15 @@
                             "origin": "sk"
                         },
                         {
-                            "id": "nulatri",
-                            "name": "000333",
+                            "id": "gorby",
+                            "name": "Gorby",
                             "time": "04:30",
                             "duration": 90,
-                            "wwwlink": "http://www.mimo.cz",
-                            "icoimage": "content/images/artists/000333.jpg",
+                            "wwwlink": "",
+                            "icoimage": "content/images/artists/blank.jpg",
                             "profiletext": "",
                             "shortdesc": "",
-                            "booking": "Mimo TV",
+                            "booking": "",
                             "origin": "cz"
                         }
                     ]
@@ -138,18 +138,18 @@
                             "origin": "pl"
                         },
                         {
-                            "id": "nulatri",
-                            "name": "000333",
+                            "id": "kashmir",
+                            "name": "Kashmir",
                             "time": "00:00",
                             "duration": 120,
-                            "wwwlink": "http://www.mixcloud.com/000333/",
-                            "icoimage": "content/images/artists/000333.jpg",
+                            "wwwlink": "http://www.mimo.cz",
+                            "icoimage": "content/images/artists/kashmir.jpg",
                             "profiletext": "",
                             "shortdesc": "",
                             "booking": "Mimo TV",
                             "origin": "cz"
                         },
-                       {
+                        {
                             "id": "muabi",
                             "name": "Muabi",
                             "time": "02:00",
@@ -540,7 +540,7 @@
                             "booking": "Cosmic Frog",
                             "origin": "cz"
                         },
-						{
+                        {
                             "id": "eklektikfl",
                             "name": "Eklektik Fluidum",
                             "time": "05:30",
@@ -643,7 +643,7 @@
                     "id": "chill",
                     "name": "Chill Out",
                     "artists": [
-						{
+                        {
                             "id": "kashmir",
                             "name": "Kashmir",
                             "time": "07:30",
@@ -655,7 +655,7 @@
                             "booking": "Mimo TV",
                             "origin": "cz"
                         },
-						{
+                        {
                             "id": "subdvisionz",
                             "name": "Sub.d.visionz",
                             "time": "09:30",
@@ -691,7 +691,7 @@
                             "booking": "Mystical Waves",
                             "origin": "cz"
                         },
-						{
+                        {
                             "id": "endchill",
                             "name": "x-  ??? -x",
                             "time": "15:00",
